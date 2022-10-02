@@ -14,7 +14,7 @@ html, body {
     margin: 0;
     padding: 0;
     background-color: #000000;
-    font-family: sans-serif;
+    font-family: 'Aclonica', sans-serif;
    -webkit-font-smoothing: antialiased; 
 }
 
@@ -90,13 +90,12 @@ header p.title {
     position: relative;
     margin: 0;
     padding: 0 0 0 2px;
-    font-size: 24px;
+    font-size: 30px;
     text-align: center;
     font-weight: bold;
    -moz-box-sizing: border-box;
     box-sizing: border-box;
     white-space: nowrap;
-    overflow: hidden;
     text-overflow: ellipsis;
 }
 
